@@ -60,7 +60,8 @@
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
       "required": false,
-      "value": ""
+      "value": "event.prefix event,67215401@dtz,args
+     }"
     }
     },
     "buildpacks": [
